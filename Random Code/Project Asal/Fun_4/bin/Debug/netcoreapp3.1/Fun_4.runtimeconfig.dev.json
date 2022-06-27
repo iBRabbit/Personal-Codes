@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\prima\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\prima\\.nuget\\packages"
+    ]
+  }
+}

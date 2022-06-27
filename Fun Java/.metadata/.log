@@ -1,0 +1,1198 @@
+!SESSION 2021-03-13 12:22:34.905 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 0 2021-03-13 12:23:24.779
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-03-13 12:23:24.779
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-03-13 12:23:25.483
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-03-13 12:23:25.506
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 12:23:26.169
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 12:23:26.169
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@49faf815,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3006aef5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 12:23:33.009
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-13 14:17:41.113 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 14:17:52.031
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 14:17:52.031
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@574e4184,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@70ab1ce0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 14:17:58.510
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-13 16:04:05.370 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 16:04:15.107
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 16:04:15.107
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f30d0eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@22fe90df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 16:04:20.921
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-13 19:12:40.867 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 19:13:10.894
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 19:13:10.894
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f30d0eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@22fe90df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 19:13:16.902
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.debug.ui 4 120 2021-03-13 19:35:05.951
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.FutureTask.awaitDone(FutureTask.java:418)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:203)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.runInUIThreadWithTimeout(SelectedResourceManager.java:262)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getFromUI(SelectedResourceManager.java:240)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getActiveWindow(SelectedResourceManager.java:231)
+	at org.eclipse.debug.ui.DebugUITools.getDebugContext(DebugUITools.java:247)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getFrame(JavaDebugHover.java:97)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getHoverInfo2(JavaDebugHover.java:251)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-03-13 19:35:07.337
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.*;
+
+public class Array {
+	
+	Scanner in = new Scanner(System.in);
+	final int MAX = 3;
+	
+	char[][] arr = new char[100][100];
+	boolean isOver = false;
+	
+	void clearArray() {
+	    for(int i = 0; i < MAX; i++){
+	        for(int j = 0; j < MAX; j++)
+	            arr[i][j] = '-';
+	    }
+	}
+	
+	void printArray() {
+		System.out.println(" 1 2 3");
+		for(int i = 0; i < MAX; i++) {
+			for(int j = 0; j < MAX; j++)
+				arr[i][j] = '-';
+		}
+	}
+	
+	public Array() {
+		clearArray();
+		int turner = 0;
+		
+		do {
+			printArray();
+			char playerTurn = 'X';
+			int coordX = 0, coordY = 0;
+			
+			if(turner % 2 == 0) playerTurn = 'X';
+			else playerTurn = 'O';
+			
+			System.out.println("Giliran Pemain : " + playerTurn + " untuk Jalan");
+			System.out.println("===============================================");
+			
+			do {
+				System.out.print("Enter X coordinate : ");
+				coordX = in.nextInt();
+				System.out.println("Enter Y coordinate : ");
+				coordY = in.nextInt();
+				
+	            if(arr[coordY - 1][coordX - 1] != '-')
+	            	(coordX > 3 || coordY > 3 || coordX < 0 || coordY < 0) cout << "Input nilai 0 <= x,y <= 3!" << endl;
+				
+			} while((arr[coordY - 1][coordX - 1] != '-' || coordX > 3 || coordY > 3 || coordX < 0 || coordY < 0));
+			
+			
+		} while (!isOver);
+		
+	}
+		
+	public static void main(String[] args) {
+		new Array();
+	}
+	
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2638)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2014)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:474)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:200)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1141)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1318)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-03-13 19:35:07.339
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2638)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2014)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:474)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:200)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1141)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1318)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-03-13 19:35:07.341
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2638)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2014)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:474)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:200)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1141)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1318)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-03-13 19:35:07.355
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.*;
+
+public class Array {
+	
+	Scanner in = new Scanner(System.in);
+	final int MAX = 3;
+	
+	char[][] arr = new char[100][100];
+	boolean isOver = false;
+	
+	void clearArray() {
+	    for(int i = 0; i < MAX; i++){
+	        for(int j = 0; j < MAX; j++)
+	            arr[i][j] = '-';
+	    }
+	}
+	
+	void printArray() {
+		System.out.println(" 1 2 3");
+		for(int i = 0; i < MAX; i++) {
+			for(int j = 0; j < MAX; j++)
+				arr[i][j] = '-';
+		}
+	}
+	
+	public Array() {
+		clearArray();
+		int turner = 0;
+		
+		do {
+			printArray();
+			char playerTurn = 'X';
+			int coordX = 0, coordY = 0;
+			
+			if(turner % 2 == 0) playerTurn = 'X';
+			else playerTurn = 'O';
+			
+			System.out.println("Giliran Pemain : " + playerTurn + " untuk Jalan");
+			System.out.println("===============================================");
+			
+			do {
+				System.out.print("Enter X coordinate : ");
+				coordX = in.nextInt();
+				System.out.println("Enter Y coordinate : ");
+				coordY = in.nextInt();
+				
+	            if(arr[coordY - 1][coordX - 1] != '-')
+	            	(coordX > 3 || coordY > 3 || coordX < 0 || coordY < 0) cout << "Input nilai 0 <= x,y <= 3!" << endl;
+				
+			} while((arr[coordY - 1][coordX - 1] != '-' || coordX > 3 || coordY > 3 || coordX < 0 || coordY < 0));
+			
+			
+		} while (!isOver);
+		
+	}
+		
+	public static void main(String[] args) {
+		new Array();
+	}
+	
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2638)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2014)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.text.java.hover.NLSStringHover.internalGetHoverInfo(NLSStringHover.java:139)
+	at org.eclipse.jdt.internal.ui.text.java.hover.NLSStringHover.getHoverInfo2(NLSStringHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-03-13 19:35:07.357
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2638)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2014)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.text.java.hover.NLSStringHover.internalGetHoverInfo(NLSStringHover.java:139)
+	at org.eclipse.jdt.internal.ui.text.java.hover.NLSStringHover.getHoverInfo2(NLSStringHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-03-13 19:35:07.359
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2638)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2014)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1739)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2956)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.text.java.hover.NLSStringHover.internalGetHoverInfo(NLSStringHover.java:139)
+	at org.eclipse.jdt.internal.ui.text.java.hover.NLSStringHover.getHoverInfo2(NLSStringHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2021-03-13 19:56:24.183 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 19:56:31.891
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 19:56:31.891
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e12fdcf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1d0fc0bc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 19:56:36.902
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.mpc.ui 1 0 2021-03-13 20:00:23.256
+!MESSAGE Performing Marketplace install request from http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-03-13 20:00:28.745
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/content.jar
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-03-13 20:00:29.054
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalStateException: Preference node "https:__raw.github.com_guari_eclipse-ui-theme_master_com.github.eclipseuitheme.themes.updatesite" has been removed.
+	at org.eclipse.core.internal.preferences.EclipsePreferences.checkRemoved(EclipsePreferences.java:165)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:607)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:767)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:630)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:767)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.remember(AbstractRepositoryManager.java:888)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:171)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:825)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-03-13 20:00:51.544
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/content.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-03-13 20:00:56.358
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/artifacts.jar
+!SESSION 2021-03-13 20:01:04.398 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 20:01:39.350
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 20:01:39.350
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55c581e4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@eaa07bb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 20:01:44.149
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.mpc.ui 1 0 2021-03-13 20:04:17.080
+!MESSAGE Performing Marketplace install request from http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1403812
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-03-13 20:04:23.423
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/artifacts.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2021-03-13 20:04:25.162
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/content.jar
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-03-13 20:05:14.980
+!MESSAGE DevStyle theme is being deactivated on this workspace; restoring colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-03-13 20:05:16.230
+!MESSAGE DevStyle is restoring colors that were configured prior to DevStyle being enabled
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.284
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.285
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.296
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.298
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.301
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.302
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.315
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.316
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.317
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.318
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.321
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.321
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.353
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.353
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.403
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.404
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.425
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.425
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.430
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.430
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.433
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.433
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.564
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.565
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.566
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.567
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.645
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:16.646
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:19.929
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:19.935
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+!SESSION 2021-03-13 20:05:21.190 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.076
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.081
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.097
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.101
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.104
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.105
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.114
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.115
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.119
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.120
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.121
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.122
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.132
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.133
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.139
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.140
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.142
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.142
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 20:05:27.171
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 20:05:27.171
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f030217,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fca9fae,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.927
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.927
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.929
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:27.930
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:28.011
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:28.012
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:28.014
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:28.015
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.965
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.970
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.976
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.982
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.985
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.986
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.988
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:29.988
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.076
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.076
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.077
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.078
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.108
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.109
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.113
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.115
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.117
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.117
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.219
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.220
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.221
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.223
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.264
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.265
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.270
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.271
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.272
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.273
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.823
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:30.824
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:31.260
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:31.261
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 20:05:31.872
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:39.783
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+
+!ENTRY org.eclipse.e4.ui.css.swt 4 0 2021-03-13 20:05:39.784
+!MESSAGE Failed to get bundle for: bundleclass://net.jeeeyul.eclipse.themes/net.jeeeyul.eclipse.themes.rendering.JeeeyulsTabRenderer
+!SESSION 2021-03-13 20:05:57.906 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 20:06:05.373
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 20:06:05.373
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@395115ac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@36c1b6ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 20:06:10.414
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-03-13 20:06:39.555
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-03-13 20:06:39.675
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+!SESSION 2021-03-13 20:06:45.334 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-13 20:47:26.010
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-13 20:47:26.010
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7611e295,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d40a2b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-13 20:47:31.846
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-04-02 14:37:40.240 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-04-02 14:38:27.707
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-02 14:38:27.707
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@a70daf4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6344004d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-02 14:38:39.722
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-04-02 14:46:49.007 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-04-02 14:48:24.569
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-02 14:48:24.569
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@32d46229,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@35198da3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-02 14:48:32.297
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-04-02 15:41:55.123 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-04-02 15:42:03.419
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-02 15:42:03.419
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54f62ac6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7be86438,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-02 15:42:09.681
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-04-02 19:50:20.387 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-04-02 19:50:28.555
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-02 19:50:28.555
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@79080255,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cdb53d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-02 19:50:35.036
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prima'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

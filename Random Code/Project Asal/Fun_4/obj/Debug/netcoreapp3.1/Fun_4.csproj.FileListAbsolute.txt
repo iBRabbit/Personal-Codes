@@ -1,0 +1,13 @@
+D:\OneDrive\Personal\Fun\Fun_4\bin\Debug\netcoreapp3.1\Fun_4.exe
+D:\OneDrive\Personal\Fun\Fun_4\bin\Debug\netcoreapp3.1\Fun_4.deps.json
+D:\OneDrive\Personal\Fun\Fun_4\bin\Debug\netcoreapp3.1\Fun_4.runtimeconfig.json
+D:\OneDrive\Personal\Fun\Fun_4\bin\Debug\netcoreapp3.1\Fun_4.runtimeconfig.dev.json
+D:\OneDrive\Personal\Fun\Fun_4\bin\Debug\netcoreapp3.1\Fun_4.dll
+D:\OneDrive\Personal\Fun\Fun_4\bin\Debug\netcoreapp3.1\Fun_4.pdb
+D:\OneDrive\Personal\Fun\Fun_4\obj\Debug\netcoreapp3.1\Fun_4.csprojAssemblyReference.cache
+D:\OneDrive\Personal\Fun\Fun_4\obj\Debug\netcoreapp3.1\Fun_4.AssemblyInfoInputs.cache
+D:\OneDrive\Personal\Fun\Fun_4\obj\Debug\netcoreapp3.1\Fun_4.AssemblyInfo.cs
+D:\OneDrive\Personal\Fun\Fun_4\obj\Debug\netcoreapp3.1\Fun_4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Personal\Fun\Fun_4\obj\Debug\netcoreapp3.1\Fun_4.dll
+D:\OneDrive\Personal\Fun\Fun_4\obj\Debug\netcoreapp3.1\Fun_4.pdb
+D:\OneDrive\Personal\Fun\Fun_4\obj\Debug\netcoreapp3.1\Fun_4.genruntimeconfig.cache

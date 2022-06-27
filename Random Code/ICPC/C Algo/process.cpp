@@ -1,0 +1,1 @@
+print("Jawaban saya adalah ")
